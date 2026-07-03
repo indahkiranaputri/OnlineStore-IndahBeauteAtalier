@@ -1,0 +1,12 @@
+# Firebase credentials - jangan commit ke GitHub
+firebase-config.js
+
+# IDE
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Node modules (jika ada)
+node_modules/
